@@ -1,1 +1,1 @@
-# Labyrinth
+# C++ Labyrinth
